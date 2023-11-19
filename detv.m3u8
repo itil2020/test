@@ -1,0 +1,88 @@
+#EXTM3U
+
+#EXTINF:-1, RTL
+https://s6.hopslan.com/rtlq1/index.m3u8
+
+#EXTINF:-1, RTL2
+https://s6.hopslan.com/rtl2x1/index.m3u8
+
+#EXTINF:-1, VOX
+https://s6.hopslan.com/voxx1/index.m3u8
+
+#EXTINF:-1, NTV
+https://s6.hopslan.com/ntvx1/index.m3u8
+
+#EXTINF:-1, Nitro
+https://s6.hopslan.com/nitrox1/index.m3u8
+
+#EXTINF:-1, SuperRTL
+https://s6.hopslan.com/superx1/index.m3u8
+
+#EXTINF:-1, Pro7
+https://s6.hopslan.com/pro7x1/index.m3u8
+
+#EXTINF:-1, Kabel1
+https://s6.hopslan.com/kabel1x1/index.m3u8
+
+#EXTINF:-1, Sat1
+https://s6.hopslan.com/sat1x1/index.m3u8
+
+#EXTINF:-1, Sixx
+https://s6.hopslan.com/sixx1/index.m3u8
+
+#EXTINF:-1, DMAX
+https://s6.hopslan.com/dmax1/index.m3u8
+
+#EXTINF:-1, P7MAXX
+https://s6.hopslan.com/pro7maxx1/index.m3u8
+
+#EXTINF:-1, K1Doku
+https://s6.hopslan.com/dokux1/index.m3u8
+
+#EXTINF:-1, S1Gold
+https://s6.hopslan.com/goldx1/index.m3u8
+
+#EXTINF:-1, KiKa
+https://s6.hopslan.com/kika/index.m3u8
+
+#EXTINF:-1, Disney
+https://s6.hopslan.com/disneyx1/index.m3u8
+
+#EXTINF:-1, Tele5
+https://s6.hopslan.com/tele5x1/index.m3u8
+
+#EXTINF:-1, ViVA
+https://s6.hopslan.com/vivax1/index.m3u8
+
+#EXTINF:-1, N24
+https://s6.hopslan.com/n24x1/index.m3u8
+
+#EXTINF:-1, ZDF
+https://s6.hopslan.com/zdfx1/index.m3u8
+
+#EXTINF:-1, ZDFinfo
+https://s6.hopslan.com/zdfinfox1/index.m3u8
+
+#EXTINF:-1, ZDFneo
+https://s6.hopslan.com/zdfneox1/index.m3u8
+
+#EXTINF:-1, Nick
+https://s6.hopslan.com/nick/index.m3u8
+
+#EXTINF:-1, ARD
+https://s6.hopslan.com/ardx1/index.m3u8
+
+#EXTINF:-1, DW
+https://s4.hopslan.com/dw/index.m3u8
+
+#EXTINF:-1, Tagesschau24
+https://s6.hopslan.com/tagesschau24/index.m3u8
+
+#EXTINF:-1, WeltDerWunder
+https://s4.hopslan.com/wunder/index.m3u8
+
+#EXTINF:-1, Phoenix
+https://s6.hopslan.com/phoenix/index.m3u8
+
+#EXTINF:-1, MTV
+https://s4.hopslan.com/mtv/index.m3u8
